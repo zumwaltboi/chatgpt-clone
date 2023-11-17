@@ -4,11 +4,11 @@
         "port" : 1338,
         "debug": false
     },
-    "openai_key": "sk-...",
+    "openai_key": "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",
 
-    "openai_api_base": "https://api.openai.com",
+    "openai_api_base": "https://open-ai-proxy.doge-math-pages.byethost33.com",
     "proxy": {
-        "enable": true,
+        "enable": false,
         "http": "127.0.0.1:7890",
         "https": "127.0.0.1:7890"
     }
